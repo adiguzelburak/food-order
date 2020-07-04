@@ -1,0 +1,6 @@
+C:\Users\adigu\source\repos\yEMEK SİPARİŞ HEASBI\yEMEK SİPARİŞ HEASBI\bin\Debug\yEMEK SİPARİŞ HEASBI.exe.config
+C:\Users\adigu\source\repos\yEMEK SİPARİŞ HEASBI\yEMEK SİPARİŞ HEASBI\bin\Debug\yEMEK SİPARİŞ HEASBI.exe
+C:\Users\adigu\source\repos\yEMEK SİPARİŞ HEASBI\yEMEK SİPARİŞ HEASBI\bin\Debug\yEMEK SİPARİŞ HEASBI.pdb
+C:\Users\adigu\source\repos\yEMEK SİPARİŞ HEASBI\yEMEK SİPARİŞ HEASBI\obj\Debug\yEMEK SİPARİŞ HEASBI.csproj.CoreCompileInputs.cache
+C:\Users\adigu\source\repos\yEMEK SİPARİŞ HEASBI\yEMEK SİPARİŞ HEASBI\obj\Debug\yEMEK SİPARİŞ HEASBI.exe
+C:\Users\adigu\source\repos\yEMEK SİPARİŞ HEASBI\yEMEK SİPARİŞ HEASBI\obj\Debug\yEMEK SİPARİŞ HEASBI.pdb
